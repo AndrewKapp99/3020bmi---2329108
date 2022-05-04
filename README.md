@@ -1,5 +1,6 @@
 #Andrew Kapp - 2329108
-
+Issues with exampls, calculations appear correct, both cases should be rated with a B since they are both very underweight given their heights.
+Weights and heigh conversions checked against online calculators.
 
 # Description for Lab Test
 
